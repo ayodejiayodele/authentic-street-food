@@ -1,0 +1,13 @@
+/* main.css */
+
+/* Green and white color theme */
+body {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+h1, h2, h3 {
+  color: #00ff00;
+}
+
+/* Add your custom styles here */

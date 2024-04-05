@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Suya",
+    "description": "Grilled skewered meat seasoned with spices",
+    "price": "$5.99",
+    "image": "suya.png"
+  },
+  {
+    "name": "Akara",
+    "description": "Deep-fried bean cakes",
+    "price": "$3.99",
+    "image": "akara.png"
+  },
+  {
+    "name": "Pounded Yam and Egusi Soup",
+    "description": "Pounded yam served with egusi soup",
+    "price": "$7.99",
+    "image": "poundo.png"
+  },
+  {
+    "name": "Jollof Rice",
+    "description": "Spicy one-pot rice dish",
+    "price": "$6.99",
+    "image": "jollof-rice.png"
+  },
+  {
+    "name": "Chin Chin",
+    "description": "Crispy fried dough snacks",
+    "price": "$2.99",
+    "image": "chin-chin.png"
+  }
+]
