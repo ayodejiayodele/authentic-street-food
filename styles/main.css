@@ -6,8 +6,24 @@ body {
   color: #000000;
 }
 
+main {
+  margin: 0px 100px 0px 50px;
+}
+
+#hero-banner {
+  background-image: url('/assets/banner.png');
+  width: 100%;
+  background-size:contain;
+  background-repeat: no-repeat;
+  height: 200px;
+  margin:  0px 100px 0px 50px;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
 h1, h2, h3 {
-  color: #00ff00;
+  color: #0b820b;
+  margin-left: 100px;
 }
 
 #foods-container{
