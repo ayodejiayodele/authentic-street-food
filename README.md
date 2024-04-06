@@ -1,4 +1,4 @@
-# Nigerian Street Foods
+# Authentic Street Foods
 
 This is a static web app that displays Nigerian street foods on a shopping site. The app reads the data from a static JSON file and uses a green and white color theme.
 
