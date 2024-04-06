@@ -19,6 +19,7 @@ main {
   margin:  0px 100px 0px 50px;
   border-radius: 5px;
   box-sizing: border-box;
+  border: 1px solid lightgray;
 }
 
 h1, h2, h3 {
