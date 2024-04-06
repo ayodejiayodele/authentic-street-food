@@ -10,4 +10,8 @@ h1, h2, h3 {
   color: #00ff00;
 }
 
+#foods-container{
+  margin: 100px;
+}
+
 /* Add your custom styles here */
