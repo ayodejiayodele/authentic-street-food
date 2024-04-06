@@ -6,6 +6,18 @@
     "image": "suya.png"
   },
   {
+    "name": "Tacos",
+    "description": "Traditional Mexican street food with various fillings",
+    "price": "$4.99",
+    "image": "tacos.png"
+  },
+  {
+    "name": "Poutine",
+    "description": "Canadian dish with french fries, cheese curds, and gravy",
+    "price": "$8.99",
+    "image": "poutine.png"
+  },
+  {
     "name": "Akara",
     "description": "Deep-fried bean cakes",
     "price": "$3.99",
