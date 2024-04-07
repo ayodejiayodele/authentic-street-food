@@ -17,7 +17,7 @@ fetch('data/foods.json')
       foodImage.alt = food.name;
 
       // Create a heading element for the street food name
-      const foodName = document.createElement('h2');
+      const foodName = document.createElement('h3');
       foodName.textContent = food.name;
 
       // Create a paragraph element for the street food description
