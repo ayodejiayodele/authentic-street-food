@@ -19,13 +19,17 @@ main {
   margin:  0px 100px 0px 50px;
   border-radius: 5px;
   box-sizing: border-box;
-  border: 1px solid lightgray;
+  border: 15px solid lightgray;
 }
 
 h1, h2, h3 {
   color: #0b820b;
+}
+
+h1, h2 {
   margin-left: 100px;
 }
+
 
 #foods-container{
   margin: 100px;
@@ -33,7 +37,7 @@ h1, h2, h3 {
 
 #foods-container div {
   width: 200px;
-  height: 300px;
+  height: 400px;
   border: 1px solid lightgray;
   border-radius: 5px;
   display: inline-block;
