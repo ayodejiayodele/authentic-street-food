@@ -13,7 +13,7 @@ fetch('data/foods.json')
 
       // Create an image element for the street food image
       const foodImage = document.createElement('img');
-      foodImage.src = food.image;
+      foodImage.src = '../assets/' + food.image;
       foodImage.alt = food.name;
 
       // Create a heading element for the street food name
@@ -24,10 +24,15 @@ fetch('data/foods.json')
       const foodDescription = document.createElement('p');
       foodDescription.textContent = food.description;
 
+      // Create a button element for the street food price
+      const foodPrice = document.createElement('button');
+      foodPrice.textContent = food.price;
+
       // Append the image, name, and description elements to the food div
       foodDiv.appendChild(foodImage);
       foodDiv.appendChild(foodName);
       foodDiv.appendChild(foodDescription);
+      foodDiv.appendChild(foodPrice);
 
       // Append the food div to the container element
       container.appendChild(foodDiv);
